@@ -1,0 +1,12 @@
+*{
+    background-color: aqua;
+}
+
+h1 {
+    color: rgb(5, 5, 5);
+    text-align: center;
+}
+
+ul{
+    font-style: italic 20px red;
+}
