@@ -7,6 +7,7 @@ h1 {
     text-align: center;
 }
 
-ul{
-    font-style: italic 20px red;
+ul,li{
+    color: red;
+    font-size: 30px;
 }
